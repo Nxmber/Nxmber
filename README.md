@@ -83,7 +83,7 @@
 
 ###
 
-<p align="left">From backend to frontend i lead the development of thoses services </p>
+<p align="left">From backend to frontend i lead the development of these services </p>
 
 ###
 
