@@ -53,7 +53,7 @@
 
 ###
 
-<h3 align="left"><a href="https://www.etrees.green/">🌲 Elrond Trees</a></h3>
+<h3 align="left"><a href="https://www.etrees.green/">🌲 eTrees</a></h3>
 
 ###
 
@@ -71,7 +71,29 @@
 
 ###
 
-<h2 align="left">🔥   My Stats :</h2>
+###
+
+<h3 align="left"><a href="https://www.elrondcity.com/">🌆 Elrond City</a></h3>
+
+###
+
+###
+
+<h4 align="left">🥇 Services for the Multiversx blockchain</h4>
+
+###
+
+<p align="left">From backend to frontend i lead the development of thoses services </p>
+
+###
+
+<div align="left" href="https://www.elrondcity.com/">
+  <img height="200" src="https://media.discordapp.net/attachments/521376047111864399/1111033409616220380/Screenshot_2023-05-24_at_22.49.58.png?width=2268&height=524"  />
+</div>
+
+###
+
+<h2 align="left">🔥 My Stats :</h2>
 
 ###
 
