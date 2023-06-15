@@ -57,7 +57,7 @@
 
 ###
 
-<h4 align="left">🥇 The first Plant de Reforest game</h4>
+<h4 align="left">🥇 The first Plant to Reforest game</h4>
 
 ###
 
