@@ -57,11 +57,11 @@
 
 ###
 
-<h4 align="left">🥇 The first Plant to Reforest game</h4>
+<h4 align="left">🥇 The first Play to Reforest game</h4>
 
 ###
 
-<p align="left">I've made the entier backend of the game using Smart Contracts</p>
+<p align="left">I've made the backend of the game using Smart Contracts</p>
 
 ###
 
