@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">23 yo Software engineer working in Paris for Doctolib<br>Curious for new technologies and public speaking</p>
+<p align="left">24 yo Software engineer building DPM.LOL<br>Curious for new technologies and public speaking</p>
 
 ###
 
