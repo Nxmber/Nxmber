@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">25 yo Software engineer building DPM.LOL<br>Curious for new technologies and public speaking</p>
+<p align="left">25 yo Software engineer building DPM.LOL</p>
 
 ###
 
